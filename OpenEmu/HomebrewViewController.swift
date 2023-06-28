@@ -33,7 +33,7 @@ private extension NSUserInterfaceItemIdentifier {
 
 final class HomebrewViewController: NSViewController {
     
-    private let homebrewGamesURL = URL(string: "https://raw.githubusercontent.com/OpenEmu/OpenEmu-Update/master/games.xml")!
+    private let homebrewGamesURL = URL(string: "https://gitee.com/donlychan/OpenEmu-Update/raw/master/games.xml")!
     
     @IBOutlet var tableView: NSTableView!
     private var blankSlate: BlankSlateView?

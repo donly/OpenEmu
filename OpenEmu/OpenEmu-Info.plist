@@ -145,7 +145,7 @@
 	<key>OEBundlePath</key>
 	<string>~/Library/Application Support/OpenEmu/Cores/</string>
 	<key>OECoreListURL</key>
-	<string>https://raw.github.com/OpenEmu/OpenEmu-Update/master/oecores.xml</string>
+	<string>https://gitee.com/donlychan/OpenEmu-Update/raw/master/oecores.xml</string>
 	<key>OELongBuildVersion</key>
 	<string></string>
 	<key>OpenEmuKit</key>
@@ -158,7 +158,7 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string>https://raw.github.com/OpenEmu/OpenEmu-Update/master/appcast.xml</string>
+	<string>https://gitee.com/donlychan/OpenEmu-Update/raw/master/appcast.xml</string>
 	<key>SUPublicDSAKeyFile</key>
 	<string>dsa_pub.pem</string>
 	<key>UTExportedTypeDeclarations</key>
